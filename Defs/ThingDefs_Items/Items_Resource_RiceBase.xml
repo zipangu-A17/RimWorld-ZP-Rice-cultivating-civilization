@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	<ThingDef ParentName="ResourceBase" Name="OrganicProductBase" Abstract="True">
+		<graphicData>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MaxHitPoints>60</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<DeteriorationRate>6</DeteriorationRate>
+			<Mass>0.03</Mass>
+		</statBases>
+		<tickerType>Rare</tickerType>
+	</ThingDef>
+	<ThingDef ParentName="OrganicProductBase" Name="RiceFoodRawBase" Abstract="True">
+		<ingestible>
+			<preferability>RawBad</preferability>
+			<tasteThought>AteRawFood</tasteThought>
+			<ingestEffect>EatVegetarian</ingestEffect>
+			<ingestSound>RawVegetable_Eat</ingestSound>
+		</ingestible>
+		<socialPropernessMatters>true</socialPropernessMatters>
+		<comps>
+			<li Class="CompProperties_FoodPoisoningChance">
+				<humanlikeOnly>true</humanlikeOnly>
+			</li>
+		</comps>
+		<thingCategories>
+			<li>JP_Rice</li>
+		</thingCategories>
+	</ThingDef>
+</Defs>

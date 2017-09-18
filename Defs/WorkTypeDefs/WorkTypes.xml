@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorkTypeDefs>
+	<WorkTypeDef>
+		<defName>RiceProcessing</defName>
+		<labelShort>脱穀</labelShort>
+		<pawnLabel>脱穀精米</pawnLabel>
+		<gerundLabel>脱穀精米</gerundLabel>
+		<description>脱穀することで稲穂を玄米にかえる。精米することで玄米から白米にかえる。</description>
+		<verb>脱穀精米</verb>
+		<naturalPriority>1005</naturalPriority>
+		<relevantSkills>
+			<li>Growing</li>
+		</relevantSkills>
+	</WorkTypeDef>
+</WorkTypeDefs>

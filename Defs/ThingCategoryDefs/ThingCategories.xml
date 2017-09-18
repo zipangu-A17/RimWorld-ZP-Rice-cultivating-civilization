@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThingCategoryDefs>
+	<ThingCategoryDef>
+		<defName>JP_Rice</defName>
+		<label>米</label>
+		<parent>PlantFoodRaw</parent>
+		<iconPath>Things/tawara_ui</iconPath>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>Tawara</defName>
+		<label>俵</label>
+		<parent>Manufactured</parent>
+		<iconPath>Things/tawara_ui</iconPath>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>Seasoning</defName>
+		<label>調味料</label>
+		<parent>FoodRaw</parent>
+		<iconPath>Things/sio_ui</iconPath>
+	</ThingCategoryDef>
+</ThingCategoryDefs>

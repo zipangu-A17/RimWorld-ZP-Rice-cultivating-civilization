@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TerrainDefs>
+	<TerrainDef Name="RiceFloorBase" Abstract="True">
+		<layerable>true</layerable>
+		<affordances>
+			<li>Light</li>
+			<li>Heavy</li>
+			<li>SmoothHard</li>
+		</affordances>
+		<designationCategory>Floors</designationCategory>
+		<Fertility>0</Fertility>
+		<constructEffect>ConstructDirt</constructEffect>
+		<AcceptTerrainSourceFilth>True</AcceptTerrainSourceFilth>
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+	</TerrainDef>
+	<TerrainDef ParentName="RiceFloorBase">
+		<DefName>Tatami_Green</DefName>
+		<Label>畳(緑)</Label>
+		<RenderPrecedence>300</RenderPrecedence>
+		<Description>藁で作れる床材。畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</Description>
+		<texturePath>Things/Terrain/tatami_g</texturePath>
+		<statBases>
+			<Beauty>2</Beauty>
+			<WorkToMake>1500</WorkToMake>
+		</statBases>
+		<CostList>
+			<Straw>30</Straw>
+		</CostList>
+		<constructEffect>ConstructDirt</constructEffect>
+		<DesignationCategory>Zipangu</DesignationCategory>
+	</TerrainDef>
+	<TerrainDef ParentName="RiceFloorBase">
+		<DefName>Tatami_Yellow</DefName>
+		<Label>畳(黄)</Label>
+		<RenderPrecedence>301</RenderPrecedence>
+		<Description>藁で作れる床材。畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</Description>
+		<texturePath>Things/Terrain/tatami_y</texturePath>
+		<statBases>
+			<Beauty>2</Beauty>
+			<WorkToMake>1500</WorkToMake>
+		</statBases>
+		<CostList>
+			<Straw>30</Straw>
+		</CostList>
+		<DesignationCategory>Zipangu</DesignationCategory>
+	</TerrainDef>
+</TerrainDefs>

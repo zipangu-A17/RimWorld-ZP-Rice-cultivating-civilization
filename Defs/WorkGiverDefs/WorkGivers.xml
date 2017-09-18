@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorkGivers>
+	<WorkGiverDef>
+		<defName>Process_Rice</defName>
+		<label>脱穀精米</label>
+		<giverClass>WorkGiver_DoBill</giverClass>
+		<workType>RiceProcessing</workType>
+		<priorityInType>25</priorityInType>
+		<fixedBillGiverDefs>
+			<li>RiceStoneSlurry</li>
+			<li>RiceMillingMachine</li>
+			<li>ThreshingMachine</li>
+			<li>ThreshingRiceMillingMachine</li>
+		</fixedBillGiverDefs>
+		<verb>process</verb>
+		<gerund>processing</gerund>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+		<prioritizeSustains>true</prioritizeSustains>
+	</WorkGiverDef>
+	<WorkGiverDef>
+		<defName>DoBillsRiceCook</defName>
+		<label>米料理を作る</label>
+		<giverClass>WorkGiver_DoBill</giverClass>
+		<workType>Cooking</workType>
+		<priorityInType>110</priorityInType>
+		<fixedBillGiverDefs>
+			<li>Messtin</li>
+			<li>IronPot</li>
+			<li>RiceCooker</li>
+		</fixedBillGiverDefs>
+		<verb>cook</verb>
+		<gerund>cooking at</gerund>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+		<prioritizeSustains>true</prioritizeSustains>
+	</WorkGiverDef>
+</WorkGivers>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef Name="Rice_BuildingBase" Abstract="True">
+		<castEdgeShadows>false</castEdgeShadows>
+		<category>Building</category>
+		<thingClass>Building</thingClass>
+		<soundImpactDefault>BulletImpactMetal</soundImpactDefault>
+		<selectable>true</selectable>
+		<drawerType>MapMeshAndRealTime</drawerType>
+		<repairEffect>Repair</repairEffect>
+		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+		<filthLeaving>BuildingRubble</filthLeaving>
+		<building>
+			<workSpeedPenaltyOutdoors>false</workSpeedPenaltyOutdoors>
+			<workSpeedPenaltyTemperature>true</workSpeedPenaltyTemperature>
+			<spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+		</building>
+		<statBases>
+			<SellPriceFactor>0.70</SellPriceFactor>
+		</statBases>
+		<comps>
+			<li>
+				<compClass>CompReportWorkSpeed</compClass>
+			</li>
+		</comps>
+		<placeWorkers>
+			<li>PlaceWorker_ReportWorkSpeedPenalties</li>
+		</placeWorkers>
+	</ThingDef>
+	<ThingDef Name="FurnitureBase" ParentName="BuildingBase" Abstract="True">
+		<comps>
+			<li>
+				<compClass>CompQuality</compClass>
+			</li>
+		</comps>
+		<DesignationCategory>Furniture</DesignationCategory>
+		<minifiedDef>MinifiedFurniture</minifiedDef>
+		<tradeTags>
+			<li>Furniture</li>
+		</tradeTags>
+	</ThingDef>
+	<ThingDef Abstract="True" ParentName="BuildingBase" Name="PicnicBase">
+		<thingClass>Building</thingClass>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>Standable</passability>
+		<castEdgeShadows>true</castEdgeShadows>
+		<tradeability>Never</tradeability>
+		<pathCost>60</pathCost>
+		<fillPercent>0.5</fillPercent>
+		<resourcesFractionWhenDeconstructed>1</resourcesFractionWhenDeconstructed>
+		<socialPropernessMatters>true</socialPropernessMatters>
+		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+		<staticSunShadowHeight>0.20</staticSunShadowHeight>
+		<surfaceType>Eat</surfaceType>
+		<comps>
+			<li>
+				<compClass>CompGatherSpot</compClass>
+			</li>
+			<li Class="CompProperties_RoomIdentifier">
+				<roomStat>Impressiveness</roomStat>
+			</li>
+		</comps>
+	</ThingDef>
+</Defs>
