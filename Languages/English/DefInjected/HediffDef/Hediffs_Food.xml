@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HedMochi.label>【Speed】Mochi power</HedMochi.label>
+  <HedMochi.stages.0.label>I ate Mochi</HedMochi.stages.0.label>
+
+  <HedMochi2.label>【Skillful】Mochi power</HedMochi2.label>
+  <HedMochi2.stages.0.label>I ate Mochi</HedMochi2.stages.0.label>
+
+  <HedPuffedRice.label>Explosive power dwells in my body! !</HedPuffedRice.label>
+  <HedPuffedRice.stages.0.label>I ate the puffed rice</HedPuffedRice.stages.0.label>
+
+
+</LanguageData>

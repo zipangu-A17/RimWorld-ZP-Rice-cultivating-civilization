@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeR_SeasonedMeat5.label>Seasoned meat(5)</MakeR_SeasonedMeat5.label>
+  <MakeR_SeasonedMeat5.description> Eliminate the smell with seasoning, make seasoned meat with slightly enhanced nutrients and preservability.</MakeR_SeasonedMeat5.description>
+  <MakeR_SeasonedMeat5.jobString>Make seasoned meat</MakeR_SeasonedMeat5.jobString>
+
+  <MakeR_SeasonedMeat20.label>Seasoned meat(20)</MakeR_SeasonedMeat20.label>
+  <MakeR_SeasonedMeat20.description>Eliminate the smell with seasoning, make seasoned meat with slightly enhanced nutrients and preservability.</MakeR_SeasonedMeat20.description>
+  <MakeR_SeasonedMeat20.jobString>Make seasoned meat</MakeR_SeasonedMeat20.jobString>
+
+  <MakeR_SeasonedMeat50.label>Seasoned meat(50)</MakeR_SeasonedMeat50.label>
+  <MakeR_SeasonedMeat50.description>Eliminate the smell with seasoning, make seasoned meat with slightly enhanced nutrients and preservability.</MakeR_SeasonedMeat50.description>
+  <MakeR_SeasonedMeat50.jobString>Make seasoned meat</MakeR_SeasonedMeat50.jobString>
+
+  <CookFreezeMochi10.label>Freeze mochi(10)</CookFreezeMochi10.label>
+  <CookFreezeMochi10.description>Make a Frozen mochi that can be stored for a long time by soaking mochis in water and freezing it, then drying it with cold wind.</CookFreezeMochi10.description>
+  <CookFreezeMochi10.jobString>Make a frozen mochi</CookFreezeMochi10.jobString>
+
+  <CookFreezeMochi20.label>Freeze mochi(20)</CookFreezeMochi20.label>
+  <CookFreezeMochi20.description>Make a Frozen mochi that can be stored for a long time by soaking mochis in water and freezing it, then drying it with cold wind.</CookFreezeMochi20.description>
+  <CookFreezeMochi20.jobString>Make a frozen mochi</CookFreezeMochi20.jobString>
+
+  <CookFreezeMochi50.label>Freeze mochi(50)</CookFreezeMochi50.label>
+  <CookFreezeMochi50.description>Make a Frozen mochi that can be stored for a long time by soaking mochis in water and freezing it, then drying it with cold wind.</CookFreezeMochi50.description>
+  <CookFreezeMochi50.jobString>Make a frozen mochi</CookFreezeMochi50.jobString>
+
+
+</LanguageData>

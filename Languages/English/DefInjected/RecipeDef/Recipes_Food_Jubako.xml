@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 豪華な食事　重箱 -->
+
+  <CookBRJubako4.label>BR Jubako(4)</CookBRJubako4.label>
+  <CookBRJubako4.description>Cooking a Jubako that can be eaten without table.</CookBRJubako4.description>
+  <CookBRJubako4.jobString>Cooking Jubako</CookBRJubako4.jobString>
+
+  <CookWRJubako4.label>Jubako(4)</CookWRJubako4.label>
+  <CookWRJubako4.description>Cooking a Jubako that can be eaten without table.</CookWRJubako4.description>
+  <CookWRJubako4.jobString>Cooking Jubako</CookWRJubako4.jobString>
+
+  <!--<CookJubakoR4.label>BR Lacquer box(4)</CookJubakoR4.label>-->
+  <!--<CookJubakoR4.description>Cooking a Lacquer box that can be eaten without table.</CookJubakoR4.description>-->
+  <!--<CookJubakoR4.jobString>Cooking a Lacquer box</CookJubakoR4.jobString>-->
+  <!--<CookJubakoRPR4.label>Lacquer box(4)</CookJubakoRPR4.label>-->
+  <!--<CookJubakoRPR4.description>Cooking a Lacquer box that can be eaten without table.</CookJubakoRPR4.description>-->
+  <!--<CookJubakoRPR4.jobString>Cooking a Lacquer box</CookJubakoRPR4.jobString>-->
+
+</LanguageData>

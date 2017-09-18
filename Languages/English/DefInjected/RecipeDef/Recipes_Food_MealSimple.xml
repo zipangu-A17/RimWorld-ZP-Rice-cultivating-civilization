@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 簡単な食事 ご飯 -->
+
+  <CookBRGohan1.label>BR Gohan</CookBRGohan1.label>
+  <CookBRGohan1.description>Cook brown rice</CookBRGohan1.description>
+  <CookBRGohan1.jobString>Cook rice</CookBRGohan1.jobString>
+
+  <CookBRGohan4.label>BR Gohan(4)</CookBRGohan4.label>
+  <CookBRGohan4.description>Cook brown rice</CookBRGohan4.description>
+  <CookBRGohan4.jobString>Cook rice</CookBRGohan4.jobString>
+
+  <CookGohan1.label>Gohan</CookGohan1.label>
+  <CookGohan1.description>Cook rice</CookGohan1.description>
+  <CookGohan1.jobString>Cook rice</CookGohan1.jobString>
+
+  <CookGohan4.label>Gohan(4)</CookGohan4.label>
+  <CookGohan4.description>Cook rice</CookGohan4.description>
+  <CookGohan4.jobString>Cook rice</CookGohan4.jobString>
+
+
+  <!--<CookRiceR1.label>Brown rice</CookRiceR1.label>-->
+  <!--<CookRiceR1.description>Cook brown rice</CookRiceR1.description>-->
+  <!--<CookRiceR1.jobString>Cook brown rice</CookRiceR1.jobString>-->
+  <!--<CookRiceR4.label>Brown rice(4)</CookRiceR4.label>-->
+  <!--<CookRiceR4.description>Cook brown rice</CookRiceR4.description>-->
+  <!--<CookRiceR4.jobString>Cook brown rice</CookRiceR4.jobString>-->
+  <!--<CookRiceRPR1.label>Rice</CookRiceRPR1.label>-->
+  <!--<CookRiceRPR1.description>Cook rice</CookRiceRPR1.description>-->
+  <!--<CookRiceRPR1.jobString>Cook rice</CookRiceRPR1.jobString>-->
+  <!--<CookRiceRPR4.label>Rice(4)</CookRiceRPR4.label>-->
+  <!--<CookRiceRPR4.description>Cook rice</CookRiceRPR4.description>-->
+  <!--<CookRiceRPR4.jobString>Cook rice</CookRiceRPR4.jobString>-->
+
+</LanguageData>

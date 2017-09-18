@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 手の込んだ食事　卵かけご飯 -->
+
+  <CookBRTKG1.label>BR TKG</CookBRTKG1.label>
+  <CookBRTKG1.description>Make the egg over rice</CookBRTKG1.description>
+  <CookBRTKG1.jobString>Make the egg over rice</CookBRTKG1.jobString>
+
+  <CookBRTKG4.label>BR TKG(4)</CookBRTKG4.label>
+  <CookBRTKG4.description>Make the egg over rice</CookBRTKG4.description>
+  <CookBRTKG4.jobString>Make the egg over rice</CookBRTKG4.jobString>
+
+  <CookWRTKG1.label>TKG</CookWRTKG1.label>
+  <CookWRTKG1.description>Make the egg over rice</CookWRTKG1.description>
+  <CookWRTKG1.jobString>Make the egg over rice</CookWRTKG1.jobString>
+
+  <CookWRTKG4.label>TKG(4)</CookWRTKG4.label>
+  <CookWRTKG4.description>Make the egg over rice</CookWRTKG4.description>
+  <CookWRTKG4.jobString>Make the egg over rice</CookWRTKG4.jobString>
+
+
+  <!-- 手の込んだ食事　肉丼 -->
+
+  <CookBRGyudon1.label>BR Gyudon</CookBRGyudon1.label>
+  <CookBRGyudon1.description>Cook the Gyudon</CookBRGyudon1.description>
+  <CookBRGyudon1.jobString>Cook the Gyudon</CookBRGyudon1.jobString>
+
+  <CookBRGyudon4.label>BR Gyudon(4)</CookBRGyudon4.label>
+  <CookBRGyudon4.description>Cook the Gyudon</CookBRGyudon4.description>
+  <CookBRGyudon4.jobString>Cook the Gyudon</CookBRGyudon4.jobString>
+
+  <CookWRGyudon1.label>Gyudon</CookWRGyudon1.label>
+  <CookWRGyudon1.description>Cook the Gyudon</CookWRGyudon1.description>
+  <CookWRGyudon1.jobString>Cook the Gyudon</CookWRGyudon1.jobString>
+
+  <CookWRGyudon4.label>Gyudon(4)</CookWRGyudon4.label>
+  <CookWRGyudon4.description>Cook the Gyudon</CookWRGyudon4.description>
+  <CookWRGyudon4.jobString>Cook the Gyudon</CookWRGyudon4.jobString>
+
+
+  <!--<CookTKGR1.label>Brown rice Raw egg on rice</CookTKGR1.label>-->
+  <!--<CookTKGR1.description>Make the egg over rice</CookTKGR1.description>-->
+  <!--<CookTKGR1.jobString>Make the egg over rice</CookTKGR1.jobString>-->
+  <!--<CookTKGR4.label>Brown rice Raw egg on rice(4)</CookTKGR4.label>-->
+  <!--<CookTKGR4.description>Make the egg over rice</CookTKGR4.description>-->
+  <!--<CookTKGR4.jobString>Make the egg over rice</CookTKGR4.jobString>-->
+  <!--<CookTKGRPR1.label>Raw egg on rice</CookTKGRPR1.label>-->
+  <!--<CookTKGRPR1.description>Make the egg over rice</CookTKGRPR1.description>-->
+  <!--<CookTKGRPR1.jobString>Make the egg over rice</CookTKGRPR1.jobString>-->
+  <!--<CookTKGRPR4.label>Raw egg on rice(4)</CookTKGRPR4.label>-->
+  <!--<CookTKGRPR4.description>Make the egg over rice</CookTKGRPR4.description>-->
+  <!--<CookTKGRPR4.jobString>Make the egg over rice</CookTKGRPR4.jobString>-->
+  <!--<CookGyudonR1.label>Brown rice Gyudon</CookGyudonR1.label>-->
+  <!--<CookGyudonR1.description>Cook the Gyudon</CookGyudonR1.description>-->
+  <!--<CookGyudonR1.jobString>肉丼を作る</CookGyudonR1.jobString>-->
+  <!--<CookGyudonR4.label>Brown rice Gyudon(4)</CookGyudonR4.label>-->
+  <!--<CookGyudonR4.description>Cook the Gyudon</CookGyudonR4.description>-->
+  <!--<CookGyudonR4.jobString>Cook the Gyudon</CookGyudonR4.jobString>-->
+  <!--<CookGyudonRPR1.label>Gyudon</CookGyudonRPR1.label>-->
+  <!--<CookGyudonRPR1.description>Cook the Gyudon</CookGyudonRPR1.description>-->
+  <!--<CookGyudonRPR1.jobString>Cook the Gyudon</CookGyudonRPR1.jobString>-->
+  <!--<CookGyudonRPR4.label>Gyudon(4)</CookGyudonRPR4.label>-->
+  <!--<CookGyudonRPR4.description>Cook the Gyudon</CookGyudonRPR4.description>-->
+  <!--<CookGyudonRPR4.jobString>Cook the Gyudon</CookGyudonRPR4.jobString>-->
+
+</LanguageData>

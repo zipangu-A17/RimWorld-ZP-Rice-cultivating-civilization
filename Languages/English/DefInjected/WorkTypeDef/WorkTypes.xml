@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RiceProcessing.label>Threshing husk</RiceProcessing.label>
+  <RiceProcessing.description>Threshing husk is the process of loosening the edible part of rice (Brown rice) from the husks and straw to which it is attached. Change from brown rice to white rice by polishing.</RiceProcessing.description>
+  <RiceProcessing.labelShort>Thresh</RiceProcessing.labelShort>
+  <RiceProcessing.pawnLabel>Thresh/Polish</RiceProcessing.pawnLabel>
+  <RiceProcessing.gerundLabel>Thresh/Polish</RiceProcessing.gerundLabel>
+  <RiceProcessing.verb>Thresh/Polish</RiceProcessing.verb>
+
+
+</LanguageData>

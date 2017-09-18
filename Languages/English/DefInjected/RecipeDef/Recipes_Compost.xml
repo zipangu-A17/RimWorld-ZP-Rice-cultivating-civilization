@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 肥料作成 -->
+
+  <MakeR_Smoldering10.label>Chaff charcoal(10)</MakeR_Smoldering10.label>
+  <MakeR_Smoldering10.description>Process Chaff into fertilizer</MakeR_Smoldering10.description>
+  <MakeR_Smoldering10.jobString>Make a Chaff charcoal</MakeR_Smoldering10.jobString>
+
+  <MakeR_Smoldering50.label>Chaff charcoal(50)</MakeR_Smoldering50.label>
+  <MakeR_Smoldering50.description>Process Chaff into fertilizer.</MakeR_Smoldering50.description>
+  <MakeR_Smoldering50.jobString>Make a Chaff charcoal</MakeR_Smoldering50.jobString>
+
+  <MakeR_Smoldering100.label>Chaff charcoal(100)</MakeR_Smoldering100.label>
+  <MakeR_Smoldering100.description>Process Chaff into fertilizer.</MakeR_Smoldering100.description>
+  <MakeR_Smoldering100.jobString>Make a Chaff charcoal</MakeR_Smoldering100.jobString>
+
+  <MakeR_Compost10.label>Compost(10)</MakeR_Compost10.label>
+  <MakeR_Compost10.description>Make fertilizer with straw and rice bran.</MakeR_Compost10.description>
+  <MakeR_Compost10.jobString>Make compost</MakeR_Compost10.jobString>
+
+  <MakeR_Compost50.label>Compost(50)</MakeR_Compost50.label>
+  <MakeR_Compost50.description>Make fertilizer with straw and rice bran.</MakeR_Compost50.description>
+  <MakeR_Compost50.jobString>Make compost</MakeR_Compost50.jobString>
+
+  <MakeR_Compost100.label>Compost(100)</MakeR_Compost100.label>
+  <MakeR_Compost100.description>Make fertilizer with straw and rice bran.</MakeR_Compost100.description>
+  <MakeR_Compost100.jobString>Make compost</MakeR_Compost100.jobString>
+
+
+</LanguageData>

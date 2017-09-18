@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PaddyField.label>Paddy field</PaddyField.label>
+  <PaddyField.description>Paddy fields that can raise Wetland rice. Fertility 200% It can only be installed in mud, wetlands and shallows, but because it has abundant moisture and nutrients, it is high performance compared to general purpose type.</PaddyField.description>
+  <PaddyField_Blueprint.label>Paddy field (blueprint)</PaddyField_Blueprint.label>
+  <PaddyField_Frame.label>Paddy field (building)</PaddyField_Frame.label>
+  <PaddyField_Frame.description>Paddy fields that can raise Wetland rice. Fertility 200% It can only be installed in mud, wetlands and shallows, but because it has abundant moisture and nutrients, it is high performance compared to general purpose type.</PaddyField_Frame.description>
+
+  <PaddyField_GP.label>Paddy field(Nomal type)</PaddyField_GP.label>
+  <PaddyField_GP.description>Paddy fields that can raise Wetland rice. Fertility 140%. Can be installed other than waterside.</PaddyField_GP.description>
+  <PaddyField_GP_Blueprint.label>Paddy field (blueprint) (blueprint)</PaddyField_GP_Blueprint.label>
+  <PaddyField_GP_Frame.label>Paddy field (blueprint) (building)</PaddyField_GP_Frame.label>
+  <PaddyField_GP_Frame.description>Paddy fields that can raise Wetland rice. Fertility 140%. Can be installed other than waterside.</PaddyField_GP_Frame.description>
+
+
+  <!--<PaddyField_Blueprint_Install.label>Paddy field (blueprint)</PaddyField_Blueprint_Install.label>-->
+  <!--<PaddyField_GP_Blueprint_Install.label>Paddy field (blueprint) (blueprint)</PaddyField_GP_Blueprint_Install.label>-->
+
+</LanguageData>

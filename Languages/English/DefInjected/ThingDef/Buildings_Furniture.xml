@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StrawBed.label>Straw bed</StrawBed.label>
+  <StrawBed.description>Ideal for sleeping but slightly unsanitary bed. 【Not available for sale】</StrawBed.description>
+  <StrawBed_Blueprint.label>Straw bed (blueprint)</StrawBed_Blueprint.label>
+  <StrawBed_Frame.label>Straw bed (building)</StrawBed_Frame.label>
+  <StrawBed_Frame.description>Ideal for sleeping but slightly unsanitary bed. 【Not available for sale】</StrawBed_Frame.description>
+
+  <AnimalStrawBedSmall.label>Animal straw bed(Small)</AnimalStrawBedSmall.label>
+  <AnimalStrawBedSmall.description>Animal straw bed.Ideal for small animals, such as chickens and rabbits.【Not available for sale】</AnimalStrawBedSmall.description>
+  <AnimalStrawBedSmall_Blueprint.label>Animal straw bed(Small) (blueprint)</AnimalStrawBedSmall_Blueprint.label>
+  <AnimalStrawBedSmall_Frame.label>Animal straw bed(Small) (building)</AnimalStrawBedSmall_Frame.label>
+  <AnimalStrawBedSmall_Frame.description>Animal straw bed.Ideal for small animals, such as chickens and rabbits.【Not available for sale】</AnimalStrawBedSmall_Frame.description>
+
+  <AnimalStrawBed.label>Animal straw bed</AnimalStrawBed.label>
+  <AnimalStrawBed.description>Animal straw bed.Ideal for mid-sized animals, from huskies to muffalo.【Not available for sale】</AnimalStrawBed.description>
+  <AnimalStrawBed_Blueprint.label>Animal straw bed (blueprint)</AnimalStrawBed_Blueprint.label>
+  <AnimalStrawBed_Frame.label>Animal straw bed (building)</AnimalStrawBed_Frame.label>
+  <AnimalStrawBed_Frame.description>Animal straw bed.Ideal for mid-sized animals, from huskies to muffalo.【Not available for sale】</AnimalStrawBed_Frame.description>
+
+  <AnimalStrawBedBig.label>Animal straw bed(Big)</AnimalStrawBedBig.label>
+  <AnimalStrawBedBig.description>Animal straw bed.Ideal for large animals such as thrumbos and elephants.【Not available for sale】</AnimalStrawBedBig.description>
+  <AnimalStrawBedBig_Blueprint.label>Animal straw bed(Big) (blueprint)</AnimalStrawBedBig_Blueprint.label>
+  <AnimalStrawBedBig_Frame.label>Animal straw bed(Big) (building)</AnimalStrawBedBig_Frame.label>
+  <AnimalStrawBedBig_Frame.description>Animal straw bed.Ideal for large animals such as thrumbos and elephants.【Not available for sale】</AnimalStrawBedBig_Frame.description>
+
+
+  <!-- 茣蓙(ござ) -->
+
+  <R_Goza_large.label>Goza(large)</R_Goza_large.label>
+  <R_Goza_large.description>A table to use outside. You can not move furniture, but the material is coming back.</R_Goza_large.description>
+  <R_Goza_large_Blueprint.label>Goza(large) (blueprint)</R_Goza_large_Blueprint.label>
+  <R_Goza_large_Frame.label>Goza(large) (building)</R_Goza_large_Frame.label>
+  <R_Goza_large_Frame.description>A table to use outside. You can not move furniture, but the material is coming back.</R_Goza_large_Frame.description>
+
+  <R_Goza.label>Goza</R_Goza.label>
+  <R_Goza.description>A table to use outside. You can not move furniture, but the material is coming back.</R_Goza.description>
+  <R_Goza_Blueprint.label>Goza (blueprint)</R_Goza_Blueprint.label>
+  <R_Goza_Frame.label>Goza (building)</R_Goza_Frame.label>
+  <R_Goza_Frame.description>A table to use outside. You can not move furniture, but the material is coming back.</R_Goza_Frame.description>
+
+  <GroundSit.label>Sit on the ground</GroundSit.label>
+  <GroundSit.description>You can sit on the ground. Convenient when using sheets and mats.</GroundSit.description>
+  <GroundSit_Blueprint.label>Sit on the ground (blueprint)</GroundSit_Blueprint.label>
+  <GroundSit_Frame.label>Sit on the ground (building)</GroundSit_Frame.label>
+  <GroundSit_Frame.description>You can sit on the ground. Convenient when using sheets and mats.</GroundSit_Frame.description>
+
+
+  <!-- レジャーシート -->
+
+  <PicnicSheet_large.label>Picnic sheet(large)</PicnicSheet_large.label>
+  <PicnicSheet_large.description>A table to use outside. You can not move furniture, but the material is coming back.</PicnicSheet_large.description>
+  <PicnicSheet_large_Blueprint.label>Picnic sheet(large) (blueprint)</PicnicSheet_large_Blueprint.label>
+  <PicnicSheet_large_Frame.label>Picnic sheet(large) (building)</PicnicSheet_large_Frame.label>
+  <PicnicSheet_large_Frame.description>A table to use outside. You can not move furniture, but the material is coming back.</PicnicSheet_large_Frame.description>
+
+  <PicnicSheet.label>Picnic sheet</PicnicSheet.label>
+  <PicnicSheet.description>A table to use outside. You can not move furniture, but the material is coming back.</PicnicSheet.description>
+  <PicnicSheet_Blueprint.label>Picnic sheet (blueprint)</PicnicSheet_Blueprint.label>
+  <PicnicSheet_Frame.label>Picnic sheet (building)</PicnicSheet_Frame.label>
+  <PicnicSheet_Frame.description>A table to use outside. You can not move furniture, but the material is coming back.</PicnicSheet_Frame.description>
+
+
+  <!--<R_StrawMat_large.label>Straw mat(large)</R_StrawMat_large.label>-->
+  <!--<R_StrawMat_large.description>A table to use outside. You can not move furniture, but the material is coming back.</R_StrawMat_large.description>-->
+  <!--<R_StrawMat_large_Blueprint.label>Straw mat(large) (blueprint)</R_StrawMat_large_Blueprint.label>-->
+  <!--<R_StrawMat_large_Blueprint_Install.label>Straw mat(large) (blueprint)</R_StrawMat_large_Blueprint_Install.label>-->
+  <!--<R_StrawMat_large_Frame.label>Straw mat(large) (building)</R_StrawMat_large_Frame.label>-->
+  <!--<R_StrawMat.label>Straw mat</R_StrawMat.label>-->
+  <!--<R_StrawMat.description>A table to use outside. You can not move furniture, but the material is coming back.</R_StrawMat.description>-->
+  <!--<R_StrawMat_Blueprint.label>Straw mat (blueprint)</R_StrawMat_Blueprint.label>-->
+  <!--<R_StrawMat_Blueprint_Install.label>Straw mat (blueprint)</R_StrawMat_Blueprint_Install.label>-->
+  <!--<R_StrawMat_Frame.label>Straw mat (building)</R_StrawMat_Frame.label>-->
+  <!--<GroundSit_Blueprint_Install.label>Sit on the ground (blueprint)</GroundSit_Blueprint_Install.label>-->
+  <!--<PicnicSheet_large_Blueprint_Install.label>Picnic sheet(large) (blueprint)</PicnicSheet_large_Blueprint_Install.label>-->
+  <!--<PicnicSheet_Blueprint_Install.label>Picnic sheet (blueprint)</PicnicSheet_Blueprint_Install.label>-->
+
+</LanguageData>

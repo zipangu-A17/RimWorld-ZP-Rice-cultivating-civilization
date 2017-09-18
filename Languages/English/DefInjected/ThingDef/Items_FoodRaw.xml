@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_SeasonedMeat.label>Seasoned meat</R_SeasonedMeat.label>
+  <R_SeasonedMeat.description>Meat that eliminated the smell of meat with seasoning. It can be eaten raw but also cooked.</R_SeasonedMeat.description>
+
+  <R_FreezeMochi.label>Freeze mochi</R_FreezeMochi.label>
+  <R_FreezeMochi.description>Mochi that can be stored for a long time.It can be eaten raw but also cooked.</R_FreezeMochi.description>
+
+</LanguageData>

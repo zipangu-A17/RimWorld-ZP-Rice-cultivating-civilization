@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 飼い葉作成 -->
+
+  <MakeR_Manger10.label>Manger(10)</MakeR_Manger10.label>
+  <MakeR_Manger10.description>Mix straw with rice bran and grain to make a manger.</MakeR_Manger10.description>
+  <MakeR_Manger10.jobString>Make a manger.</MakeR_Manger10.jobString>
+
+  <MakeR_Manger50.label>Manger(50)</MakeR_Manger50.label>
+  <MakeR_Manger50.description>Mix straw with rice bran and grain to make a manger.</MakeR_Manger50.description>
+  <MakeR_Manger50.jobString>Make a manger.</MakeR_Manger50.jobString>
+
+  <MakeR_Manger100.label>Manger(100)</MakeR_Manger100.label>
+  <MakeR_Manger100.description>Mix straw with rice bran and grain to make a manger.</MakeR_Manger100.description>
+  <MakeR_Manger100.jobString>Make a manger.</MakeR_Manger100.jobString>
+
+
+</LanguageData>

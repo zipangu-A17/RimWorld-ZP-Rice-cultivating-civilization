@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 燃料 -->
+
+  <Momigalite.label>Momigalite</Momigalite.label>
+  <Momigalite.description>Can be used as fuel.</Momigalite.description>
+
+  <FuelStraw.label>Fuel straw</FuelStraw.label>
+  <FuelStraw.description>Can be used as fuel.</FuelStraw.description>
+
+
+  <!-- 米俵 -->
+
+  <StrawRiceBag_RawRice.label>StrawRiceBag(rice)</StrawRiceBag_RawRice.label>
+  <StrawRiceBag_RawRice.description>米(生)を大量に保管できる。また、特産品として売れる。</StrawRiceBag_RawRice.description>
+
+  <StrawRiceBag_RiceMomi.label>StrawRiceBag(Momi)</StrawRiceBag_RiceMomi.label>
+  <StrawRiceBag_RiceMomi.description>米(籾)を保管できる。また、特産品として売れる。</StrawRiceBag_RiceMomi.description>
+
+  <StrawRiceBag_BrownRice.label>StrawRiceBag(Brown rice)</StrawRiceBag_BrownRice.label>
+  <StrawRiceBag_BrownRice.description>玄米を保管できる。また、特産品として高く売れる。</StrawRiceBag_BrownRice.description>
+
+  <StrawRiceBag_WhiteRice.label>StrawRiceBag(White rice)</StrawRiceBag_WhiteRice.label>
+  <StrawRiceBag_WhiteRice.description>白米を保管できる。また、特産品として非常に高く売れる。</StrawRiceBag_WhiteRice.description>
+
+
+  <!-- 肥料 -->
+
+  <R_Smoldering.label>Chaff charcoal</R_Smoldering.label>
+  <R_Smoldering.description>Fertilizer to use when paddy field construction.</R_Smoldering.description>
+
+  <R_Compost.label>Compost</R_Compost.label>
+  <R_Compost.description>Fertilizer to use when paddy field construction.</R_Compost.description>
+
+
+  <!-- 飼料 -->
+
+  <Manger.label>Manger</Manger.label>
+  <Manger.description>Livestock feed (high nutrient)</Manger.description>
+
+
+  <!--<RiceStraw_RawRice.label>Straw rice bag(Raw rice)</RiceStraw_RawRice.label>-->
+  <!--<RiceStraw_RawRice.description>米(生)を大量に保管できる。また、特産品として売れる。</RiceStraw_RawRice.description>-->
+  <!--<RiceStraw_JP_RawRice.label>Straw rice bag(Rice(Momi))</RiceStraw_JP_RawRice.label>-->
+  <!--<RiceStraw_JP_RawRice.description>米(籾)を保管できる。また、特産品として売れる。</RiceStraw_JP_RawRice.description>-->
+  <!--<RiceStraw_BrownRice.label>Straw rice bag(Brown rice)</RiceStraw_BrownRice.label>-->
+  <!--<RiceStraw_BrownRice.description>玄米を保管できる。また、特産品として高く売れる。</RiceStraw_BrownRice.description>-->
+  <!--<RiceStraw_PolishedRice.label>Straw rice bag(White rice)</RiceStraw_PolishedRice.label>-->
+  <!--<RiceStraw_PolishedRice.description>白米を保管できる。また、特産品として非常に高く売れる。</RiceStraw_PolishedRice.description>-->
+
+</LanguageData>

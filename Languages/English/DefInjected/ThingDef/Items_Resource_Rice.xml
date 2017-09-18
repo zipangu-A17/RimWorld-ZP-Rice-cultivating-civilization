@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Inaho.label>Inaho</Inaho.label>
+  <Inaho.description>白米を美味しく食べるための五箇条
+          １、【脱穀】稲穂を脱穀して米(籾)と藁にわける
+          ２、【籾摺り】米(籾付き)を籾摺りして玄米と籾殻にわける
+          ３、【精米】玄米を精米機にかけて白米と米ぬかにわける
+          ４、【調理】美味しく調理をする
+          ５、【食事】大地の恵みに感謝していただきます!!
+        </Inaho.description>
+
+  <RiceMomi.label>Momi</RiceMomi.label>
+  <RiceMomi.description>Rice with shells. I can not eat it.\n脱穀することで玄米と副産物である藁を手に入れることができる。</RiceMomi.description>
+
+  <!--[Core] <RawRice.label>rice</RawRice.label>-->
+  <!--[Core] <RawRice.description>Raw rice.</RawRice.description>-->
+
+  <BrownRice.label>Brown rice</BrownRice.label>
+  <BrownRice.description>脱穀して米から籾を外すことで栄養価が高い玄米を食べることが出来る。</BrownRice.description>
+
+  <WhiteRice.label>White rice</WhiteRice.label>
+  <WhiteRice.description>丁寧に脱穀して精米したお米。\n精米する過程で栄養素を削りとってしまうが味は抜群によくなる。</WhiteRice.description>
+
+  <Straw.label>Straw</Straw.label>
+  <Straw.description>脱穀したさいの副産物。
+　　　　　　　　動物の飼料、肥料、燃料または工芸品など様々な場面で活躍する。</Straw.description>
+
+  <Chaff.label>Outer hull</Chaff.label>
+  <Chaff.description>籾摺りをしたさいの副産物。
+        　　　　使い道として肥料、燃料、動物の飼料(低栄養)として使える。</Chaff.description>
+
+  <RiceBran.label>Rice bran</RiceBran.label>
+  <RiceBran.description>玄米を精米したさいの副産物。
+        　　　　加工すれば肥料、動物の飼料、保存食作成の材料になる。</RiceBran.description>
+
+
+  <!--<JP_RawRice.label>Rice(Momi)</JP_RawRice.label>-->
+  <!--<JP_RawRice.description>籾付きのお米。このまま食べることは出来ないので脱穀精米しよう!!
+        　　　　脱穀することで玄米と副産物である藁を手に入れることができる。</JP_RawRice.description>-->
+  <!--<RawRice.label>Raw rice</RawRice.label>-->
+  <!--<RawRice.description>生の米です。</RawRice.description>-->
+  <!--<PolishedRice.label>White rice</PolishedRice.label>-->
+  <!--<PolishedRice.description>丁寧に脱穀して精米したお米。
+        　　　　精米する過程で栄養素を削りとってしまうが味は抜群によくなる。</PolishedRice.description>-->
+
+</LanguageData>

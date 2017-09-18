@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 精米機　米(籾)⇒白米 -->
+
+  <MakeRiceMillingMachineRice10.label>Momi⇒White rice(10)</MakeRiceMillingMachineRice10.label>
+  <MakeRiceMillingMachineRice10.description>Consuming Momi is processed into White rice and Chaff and Rice bran.</MakeRiceMillingMachineRice10.description>
+  <MakeRiceMillingMachineRice10.jobString>Rice polishing</MakeRiceMillingMachineRice10.jobString>
+
+  <MakeRiceMillingMachineRice50.label>Momi⇒White rice(50)</MakeRiceMillingMachineRice50.label>
+  <MakeRiceMillingMachineRice50.description>Consuming Momi is processed into White rice and Chaff and Rice bran.</MakeRiceMillingMachineRice50.description>
+  <MakeRiceMillingMachineRice50.jobString>Rice polishing</MakeRiceMillingMachineRice50.jobString>
+
+  <MakeRiceMillingMachineRice100.label>Momi⇒White rice(100)</MakeRiceMillingMachineRice100.label>
+  <MakeRiceMillingMachineRice100.description>Consuming Rice(Momi) is processed into White rice and Chaff and Rice bran.</MakeRiceMillingMachineRice100.description>
+  <MakeRiceMillingMachineRice100.jobString>Rice polishing</MakeRiceMillingMachineRice100.jobString>
+
+  <MakeRiceMillingMachineRice200.label>Momi⇒White rice(200)</MakeRiceMillingMachineRice200.label>
+  <MakeRiceMillingMachineRice200.description>Consuming Momi is processed into White rice and Chaff and Rice bran.</MakeRiceMillingMachineRice200.description>
+  <MakeRiceMillingMachineRice200.jobString>Rice polishing</MakeRiceMillingMachineRice200.jobString>
+
+
+  <!-- 精米機　米(籾)⇒玄米 -->
+
+  <MakeRiceMillingMachineRice10_2.label>Momi⇒Brown rice(10)</MakeRiceMillingMachineRice10_2.label>
+  <MakeRiceMillingMachineRice10_2.description>Consuming Momi is processed into Brown rice and Chaff.</MakeRiceMillingMachineRice10_2.description>
+  <MakeRiceMillingMachineRice10_2.jobString>Strip rice hulls from rice</MakeRiceMillingMachineRice10_2.jobString>
+
+  <MakeRiceMillingMachineRice50_2.label>Momi⇒Brown rice(50)</MakeRiceMillingMachineRice50_2.label>
+  <MakeRiceMillingMachineRice50_2.description>Consuming Momi is processed into Brown rice and Chaff.</MakeRiceMillingMachineRice50_2.description>
+  <MakeRiceMillingMachineRice50_2.jobString>Strip rice hulls from rice</MakeRiceMillingMachineRice50_2.jobString>
+
+  <MakeRiceMillingMachineRice100_2.label>Momi⇒Brown rice(100)</MakeRiceMillingMachineRice100_2.label>
+  <MakeRiceMillingMachineRice100_2.description>Consuming Momi is processed into Brown rice and Chaff.</MakeRiceMillingMachineRice100_2.description>
+  <MakeRiceMillingMachineRice100_2.jobString>Strip rice hulls from rice</MakeRiceMillingMachineRice100_2.jobString>
+
+  <MakeRiceMillingMachineRice200_2.label>Momi⇒Brown rice(200)</MakeRiceMillingMachineRice200_2.label>
+  <MakeRiceMillingMachineRice200_2.description>Consuming Momi is processed into Brown rice and Chaff.</MakeRiceMillingMachineRice200_2.description>
+  <MakeRiceMillingMachineRice200_2.jobString>Strip rice hulls from rice</MakeRiceMillingMachineRice200_2.jobString>
+
+
+  <!-- 精米機　玄米⇒白米 -->
+
+  <MakeRiceMillingMachineRice10_3.label>Brown rice⇒White rice(10)</MakeRiceMillingMachineRice10_3.label>
+  <MakeRiceMillingMachineRice10_3.description>Consuming Brown rice is processed into White rice and Rice bran.</MakeRiceMillingMachineRice10_3.description>
+  <MakeRiceMillingMachineRice10_3.jobString>Rice polishing</MakeRiceMillingMachineRice10_3.jobString>
+
+  <MakeRiceMillingMachineRice50_3.label>Brown rice⇒White rice(50)</MakeRiceMillingMachineRice50_3.label>
+  <MakeRiceMillingMachineRice50_3.description>Consuming Brown rice is processed into White rice and Rice bran.</MakeRiceMillingMachineRice50_3.description>
+  <MakeRiceMillingMachineRice50_3.jobString>Rice polishing</MakeRiceMillingMachineRice50_3.jobString>
+
+  <MakeRiceMillingMachineRice100_3.label>Brown rice⇒White rice(100)</MakeRiceMillingMachineRice100_3.label>
+  <MakeRiceMillingMachineRice100_3.description>Consuming Brown rice is processed into White rice and Rice bran.</MakeRiceMillingMachineRice100_3.description>
+  <MakeRiceMillingMachineRice100_3.jobString>Rice polishing</MakeRiceMillingMachineRice100_3.jobString>
+
+  <MakeRiceMillingMachineRice200_3.label>Brown rice⇒White rice(200)</MakeRiceMillingMachineRice200_3.label>
+  <MakeRiceMillingMachineRice200_3.description>Consuming Brown rice is processed into White rice and Rice bran.</MakeRiceMillingMachineRice200_3.description>
+  <MakeRiceMillingMachineRice200_3.jobString>Rice polishing</MakeRiceMillingMachineRice200_3.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 調味料 -->
+
+  <R_CookNaturalSalt.label>Natural salt(10)</R_CookNaturalSalt.label>
+  <R_CookNaturalSalt.description>To extract salt from water containing the salt.</R_CookNaturalSalt.description>
+  <R_CookNaturalSalt.jobString>Make salt</R_CookNaturalSalt.jobString>
+
+  <R_CookSyrup10.label>Rice syrup(10)</R_CookSyrup10.label>
+  <R_CookSyrup10.description>Boil rice, extract sugar and make Rice syrup</R_CookSyrup10.description>
+  <R_CookSyrup10.jobString>Make Rice Syrup</R_CookSyrup10.jobString>
+
+
+</LanguageData>

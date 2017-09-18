@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Messtin.label>Messtin</Messtin.label>
+  <Messtin.description>It is used for cooking rice and simple cooking. Cooking speed because there is only a minimum of equipment is reduced by 30%.</Messtin.description>
+  <Messtin_Blueprint.label>Messtin (blueprint)</Messtin_Blueprint.label>
+  <Messtin_Blueprint_Install.label>Messtin (blueprint)</Messtin_Blueprint_Install.label>
+  <Messtin_Frame.label>Messtin (building)</Messtin_Frame.label>
+  <Messtin_Frame.description>It is used for cooking rice and simple cooking. Cooking speed because there is only a minimum of equipment is reduced by 30%.</Messtin_Frame.description>
+
+  <IronPot.label>Iron pot</IronPot.label>
+  <IronPot.description>A convenient cooking table when cooking rice or making soup.</IronPot.description>
+  <IronPot_Blueprint.label>Iron pot (blueprint)</IronPot_Blueprint.label>
+  <IronPot_Blueprint_Install.label>Iron pot (blueprint)</IronPot_Blueprint_Install.label>
+  <IronPot_Frame.label>Iron pot (building)</IronPot_Frame.label>
+  <IronPot_Frame.description>A convenient cooking table when cooking rice or making soup.</IronPot_Frame.description>
+
+  <RiceCooker.label>Rice cooker</RiceCooker.label>
+  <RiceCooker.description>A convenient cooking table when cooking rice or making soup. Because it already has the latest cookware cooking speed is increased 30%.</RiceCooker.description>
+  <RiceCooker_Blueprint.label>Rice cooker (blueprint)</RiceCooker_Blueprint.label>
+  <RiceCooker_Blueprint_Install.label>Rice cooker (blueprint)</RiceCooker_Blueprint_Install.label>
+  <RiceCooker_Frame.label>Rice cooker (building)</RiceCooker_Frame.label>
+  <RiceCooker_Frame.description>A convenient cooking table when cooking rice or making soup. Because it already has the latest cookware cooking speed is increased 30%.</RiceCooker_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BR_Gohan.label>Gohan(BR)</BR_Gohan.label>
+  <BR_Gohan.description>オカズが欲しいなんて言わずにお米そのままの味を楽しもう!!</BR_Gohan.description>
+
+  <WR_Gohan.label>Gohan</WR_Gohan.label>
+  <WR_Gohan.description>白米をじっくりと楽しむためにお椀によそられた最高の1杯</WR_Gohan.description>
+
+  <BR_TKG.label>TKG(BR)</BR_TKG.label>
+  <BR_TKG.description>The Devil wisp. Put "safer" raw eggs and make delicious rice more delicious.</BR_TKG.description>
+
+  <WR_TKG.label>TKG</WR_TKG.label>
+  <WR_TKG.description>The Devil wisp. Put "safer" raw eggs and make delicious rice more delicious.</WR_TKG.description>
+
+  <BR_Onigiri.label>Onigiri(BR)</BR_Onigiri.label>
+  <BR_Onigiri.description>どこでも食べれる塩味のきいたおにぎり</BR_Onigiri.description>
+
+  <WR_Onigiri.label>Onigiri</WR_Onigiri.label>
+  <WR_Onigiri.description>どこでも食べれる塩味のきいた白米のおにぎり</WR_Onigiri.description>
+
+  <BR_Bento.label>Bento(BR)</BR_Bento.label>
+  <BR_Bento.description>どこでも食べれるお弁当。</BR_Bento.description>
+
+  <WR_Bento.label>Bento</WR_Bento.label>
+  <WR_Bento.description>どこでも食べれる白米のお弁当。</WR_Bento.description>
+
+  <BR_Jubako.label>Jubako(BR)</BR_Jubako.label>
+  <BR_Jubako.description>どこでも食べれる豪華なお弁当。</BR_Jubako.description>
+
+  <WR_Jubako.label>Jubako</WR_Jubako.label>
+  <WR_Jubako.description>どこでも食べれる豪華で白米のお弁当。</WR_Jubako.description>
+
+  <BR_Gyudon.label>Gyudon(BR)</BR_Gyudon.label>
+  <BR_Gyudon.description>ご飯の上にがっつり肉を盛り付けたどんぶり。</BR_Gyudon.description>
+
+  <WR_Gyudon.label>Gyudon</WR_Gyudon.label>
+  <WR_Gyudon.description>ご飯の上にがっつり肉を盛り付けた白米のどんぶり。</WR_Gyudon.description>
+
+  <WR_JPCurryRice.label>JP Curry rice</WR_JPCurryRice.label>
+  <WR_JPCurryRice.description>In some countries, everyone loves enchanting curry rice, so it will make meaningless battles with what to eat and food ingredients.</WR_JPCurryRice.description>
+
+</LanguageData>

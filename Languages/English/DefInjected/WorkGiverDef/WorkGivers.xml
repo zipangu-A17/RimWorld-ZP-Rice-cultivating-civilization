@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Process_Rice.label>Threshing milled rice</Process_Rice.label>
+  <Process_Rice.verb>process</Process_Rice.verb>
+  <Process_Rice.gerund>processing</Process_Rice.gerund>
+
+  <DoBillsRiceCook.label>Cook rice</DoBillsRiceCook.label>
+  <DoBillsRiceCook.verb>cook</DoBillsRiceCook.verb>
+  <DoBillsRiceCook.gerund>cooking at</DoBillsRiceCook.gerund>
+
+
+</LanguageData>
